@@ -3,7 +3,7 @@
 Developed a two player dice game where players accumulate points to reach 100, with strategic hold functionality to secure scores and a
 risk element of losing all turn points if a '1' is rolled.
 <br>
-1) ProgrammeÊ the game logic using Vanilla JavaScript, enabling core gameplay features such as point accumulation, turn switching, and
+1) Programmed the game logic using Vanilla JavaScript, enabling core gameplay features such as point accumulation, turn switching, and
 conditional scoring based on dice rolls.
 <br>
 2) Crafted event handlers to manage game actions like dice rolls and holds, ensuring responsive and intuitive game controls.
